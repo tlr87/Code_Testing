@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  margin: auto;
+  width: 50%;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.header {
+  height: 20%;
+  background-color: grey;
+}
+
+.menu {
+  background-color: lightgrey;
+  margin: 0;
+}
+
+.item {
+  float: left;
+  height: 30%;
+  width: 10%;
+  background-color: lightgrey;
+}
+
+.content {
+  height: 500px;
+  background-color: black;
+}
+
+.footer {
+  height: 20%;
+  background-color: grey;
+}
+
+.buttonTest {}
